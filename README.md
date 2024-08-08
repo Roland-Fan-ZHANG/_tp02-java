@@ -1,4 +1,4 @@
-# [TP-2 Java](https://monge.univ-mlv.fr/ens/IR/IR1/2023-2024/Java/td02.php)
+# [TP-02 Java](https://monge.univ-mlv.fr/ens/IR/IR1/2023-2024/Java/td02.php)
 
 # Exercice 1 - Assignation, égalité, référence
 
